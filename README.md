@@ -5,3 +5,9 @@ Este es un proyecto don vamos a tener este mismo proyecto tanto en github como e
 > Atentamente: winkler-palacios
 
 Logramos conectar tanto a github como a gitlab
+
+## Atentamente 
+
+> Emos logrado clonar dos fork en un mismo proyecto local 
+
+### > !importan 
