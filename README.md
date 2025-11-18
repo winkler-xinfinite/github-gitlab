@@ -11,3 +11,5 @@ Logramos conectar tanto a github como a gitlab
 > Emos logrado clonar dos fork en un mismo proyecto local 
 
 ### > !importan 
+
+> Acabamos de clonar tod y aremos un pr a cada uno de los proyectos tanto a github como a gitlab 
